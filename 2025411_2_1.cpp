@@ -14,7 +14,8 @@ int main()
         a = a * 10;
         a = number - a;
         cout << a;
-        number = number / 10;
+        
     }
     return 0;
 }
+
